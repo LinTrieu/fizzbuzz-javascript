@@ -11,10 +11,10 @@ Link to challenge instructions: https://github.com/makersacademy/course/blob/mas
 -------------------
 ### To print numbers (in REPL console) 
 
-```
-var fizzBuzz = new FizzBuzz();
+```bash
+var f = new FizzBuzz();
 
 for (var i = 1; i <= 100; i++) {
-  console.log(fizzBuzz.play(i));
+  console.log(f.says(i));
 }
 ```
