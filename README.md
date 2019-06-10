@@ -11,7 +11,7 @@ Link to challenge instructions: https://github.com/makersacademy/course/blob/mas
 -------------------
 ### To print numbers (in REPL console) 
 
-```console 
+```
 var fizzBuzz = new FizzBuzz();
 
 for (var i = 1; i <= 100; i++) {
