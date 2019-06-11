@@ -1,4 +1,5 @@
-var Fizzbuzz = function() {};
+// var Fizzbuzz = function() {};
+function Fizzbuzz() {};
 
 Fizzbuzz.prototype._isDivisibleBy = function(number, divisor) {
   return (number % divisor === 0);
